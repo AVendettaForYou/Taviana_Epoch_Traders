@@ -1254,7 +1254,7 @@ class Mission
 			name="TraderCityLyepestok";
 			text="Trader City Lyepestok";
 			type="mil_circle";
-			colorName="ColorBlack";
+			colorName="ColorOrange";
 		};
 		class Item13
 		{
@@ -1262,7 +1262,7 @@ class Mission
 			name="TraderCitySabina";
 			text="Trader City Sabina";
 			type="mil_circle";
-			colorName="ColorBlack";
+			colorName="ColorOrange";
 		};
 		class Item14
 		{
@@ -1270,7 +1270,7 @@ class Mission
 			name="TraderCityBilgrad";
 			text="Trader City Bilgrad";
 			type="mil_circle";
-			colorName="ColorBlack";
+			colorName="ColorOrange";
 		};
 		class Item15
 		{
@@ -1278,7 +1278,7 @@ class Mission
 			name="TraderCityBranibor";
 			text="Trader City Branibor";
 			type="mil_circle";
-			colorName="ColorBlack";
+			colorName="ColorOrange";
 		};
 		class Item16
 		{
