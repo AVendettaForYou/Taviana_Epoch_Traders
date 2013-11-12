@@ -36,8 +36,8 @@ Open dayz_server\init\server_functions.sqf and place this at the very bottom
 		call compile preProcessFileLineNumbers "z\addons\dayz_server\traders\branibor.sqf";
 		//Hero Vendors
 		call compile preProcessFileLineNumbers "z\addons\dayz_server\traders\hero.sqf";
-		//Lyepenstok City
-		call compile preProcessFileLineNumbers "z\addons\dayz_server\traders\lyepenstok.sqf";
+		//Lyepestok City
+		call compile preProcessFileLineNumbers "z\addons\dayz_server\traders\lyepestok.sqf";
 		//Misc. Vendors
 		call compile preProcessFileLineNumbers "z\addons\dayz_server\traders\miscvendors.sqf";
 		//Sabina City
