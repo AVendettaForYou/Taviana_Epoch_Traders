@@ -46,7 +46,7 @@ menu_Soldier_Sniper_PMC = [
 //SUPPLIES
 menu_GUE_Woodlander3 = [
 	[["Building Supplies",530],["Toolbelt Items",532],["Vehicle Parts",531]],
-	[["Cinderblocks","ItemGoldBar10oz",4,4,"buy","ItemGoldBar10oz","Cinderblocks",101]],
+	[],
 	"hero"
 ];
 //MEDICAL
@@ -75,7 +75,7 @@ menu_GUE_Woodlander1 = [
 //SUPPLIES
 menu_RU_Worker1 = [
 	[["Building Supplies",662],["Toolbelt Items",663],["Vehicle Parts",664]],
-	[["Cinderblocks","ItemGoldBar10oz",4,4,"buy","ItemGoldBar10oz","Cinderblocks",101]],
+	[],
 	"hostile"
 ];
 //MEDICAl
@@ -104,7 +104,7 @@ menu_Doctor = [
 //SUPPLIES
 menu_RU_Worker4 = [
 	[["Building Supplies",508],["Toolbelt Items",510],["Vehicle Parts",509]],
-	[["Cinderblocks","ItemGoldBar10oz",4,4,"buy","ItemGoldBar10oz","Cinderblocks",101]],
+	[],
 	"neutral"
 ];
 //WEAPONS
@@ -192,12 +192,12 @@ menu_GUE_Worker2 = [
 //EAST BRIDGE
 menu_GUE_Soldier_2 = [
 	[["Wholesale",675]],
-	[["Cinderblocks","ItemGoldBar10oz",4,4,"buy","ItemGoldBar10oz","Cinderblocks",101]],
+	[],
 	"neutral"
 ];
 //WEST BRIDGE
 menu_Reynolds_PMC = [
 	[["Wholesale",636]],
-	[["Cinderblocks","ItemGoldBar10oz",4,4,"buy","ItemGoldBar10oz","Cinderblocks",101]],
+	[],
 	"neutral"
 ];
