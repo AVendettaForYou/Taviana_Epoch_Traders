@@ -70,8 +70,9 @@ if (true) then
 _unit_133 = objNull;
 if (true) then
 {
-  _this = _group_1 createUnit ["GUE_Soldier_Pilot", [16720.865, 10214.762, -2.6702881e-005], [], 0, "CAN_COLLIDE"];
+  _this = _group_1 createUnit ["GUE_Soldier_Pilot", [16555.693, 10161.202, -2.6702881e-005], [], 0, "CAN_COLLIDE"];
   _unit_133 = _this;
+  _this setDir -4.1776338;
   _this setVehicleInit "this allowDammage false; this disableAI 'FSM'; this disableAI 'MOVE'; this disableAI 'AUTOTARGET'; this disableAI 'TARGET'; this setBehaviour 'CARELESS'; this forceSpeed 0;";
   _this setUnitAbility 0.60000002;
   _this allowDammage false; _this disableAI 'FSM'; _this disableAI 'MOVE'; _this disableAI 'AUTOTARGET'; _this disableAI 'TARGET'; _this setBehaviour 'CARELESS'; _this forceSpeed 0;_this enableSimulation false;
