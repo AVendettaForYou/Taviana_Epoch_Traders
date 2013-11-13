@@ -109,9 +109,10 @@ if (true) then
 _vehicle_238 = objNull;
 if (true) then
 {
-  _this = createVehicle ["HeliHEmpty", [6795.0146, 8514.5771, 7.6293945e-006], [], 0, "CAN_COLLIDE"];
+  _this = createVehicle ["HeliHEmpty", [6794.9131, 8514.5957, 7.6293945e-006], [], 0, "CAN_COLLIDE"];
   _vehicle_238 = _this;
-  _this setPos [6795.0146, 8514.5771, 7.6293945e-006];
+  _this setDir -129.84926;
+  _this setPos [6794.9131, 8514.5957, 7.6293945e-006];
 };
 
 _vehicle_249 = objNull;
@@ -476,9 +477,10 @@ if (true) then
 _vehicle_413 = objNull;
 if (true) then
 {
-  _this = createVehicle ["HeliHCivil", [6794.9082, 8514.5381, 2.2888184e-005], [], 0, "CAN_COLLIDE"];
+  _this = createVehicle ["HeliHCivil", [6795.0098, 8514.5195, 2.2888184e-005], [], 0, "CAN_COLLIDE"];
   _vehicle_413 = _this;
-  _this setPos [6794.9082, 8514.5381, 2.2888184e-005];
+  _this setDir -129.84926;
+  _this setPos [6795.0098, 8514.5195, 2.2888184e-005];
 };
 
 _vehicle_415 = objNull;
