@@ -62,6 +62,7 @@ After you have followed the above steps you are ready to start your server and e
 
 <b>14/11/13</b>
 
+- [FIXED] Airport Dubovo: Marker position for Aircraft Dealer moved to correct position.
 - [UPCOMING] Removing items in wholesalers.sqf to reduce object count to prevent possible lag due to excessive junk. Adding objects to Sabina Trader City to make it more visually pleasing and less dull. Minor edits to other trader cities as well.
 
 <b>13/11/13</b>
