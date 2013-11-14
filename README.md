@@ -60,7 +60,17 @@ After you have followed the above steps you are ready to start your server and e
 
 <b>CHANGELOG:</b>
 
+<b>14/11/13</b>
+
+- [UPCOMING] Removing items in wholesalers.sqf to reduce object count to prevent possible lag due to excessive junk. Adding objects to Sabina Trader City to make it more visually pleasing and less dull. Minor edits to other trader cities as well.
+
+<b>13/11/13</b>
+
+- [FIXED] Krasnoznamen'sk Airport: Changed orientation of helipad to spawn bought aircraft facing the runway instead of outside to help players take off easier. (Affected file: Traders\miscvendor.sqf).
+- [FIXED] Airport Dubovo: Moved Aircraft Dealer due to not spawning bought vehicles. (Affected files: mission.sqf, mission.sqm, Traders\miscvendors.sqf).
+
 <b>12/11/13</b>
 
+- [FIXED] Trader City marker colors due to visibility issues. Typo Errors.
 - [RELEASED] Taviana Epoch Custom Traders.
 
