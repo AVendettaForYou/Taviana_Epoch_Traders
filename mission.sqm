@@ -1298,7 +1298,7 @@ class Mission
 		};
 		class Item18
 		{
-			position[]={16679.488,-44.942001,11620.883};
+			position[]={16555.732,-44.942032,10159.68};
 			name="AircraftDealer";
 			text="Aircraft Dealer";
 			type="mil_dot";
