@@ -595,7 +595,7 @@ call compile preProcessFileLineNumbers "z\addons\dayz_server\traders\branibor.sq
 //Hero Vendors
 call compile preProcessFileLineNumbers "z\addons\dayz_server\traders\hero.sqf";
 //Lyepenstok City
-call compile preProcessFileLineNumbers "z\addons\dayz_server\traders\lyepenstok.sqf";
+call compile preProcessFileLineNumbers "z\addons\dayz_server\traders\lyepestok.sqf";
 //Misc. Vendors
 call compile preProcessFileLineNumbers "z\addons\dayz_server\traders\miscvendors.sqf";
 //Sabina City
