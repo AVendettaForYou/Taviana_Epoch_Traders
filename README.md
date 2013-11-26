@@ -60,7 +60,13 @@ After you have followed the above steps you are ready to start your server and e
 
 <b>CHANGELOG:</b>
 
+<b>26/11/13</b>
+
+- [FIXED] Death Boards in the four main trader cities are added in. (Affected files: traders\bilgrad.sqf\braanibor.sqf\lyepestok.sqf\sabina.sqf).
+
+
 <b>21/11/13</b>
+
 - [UPDATED] Sabina Trader City and Wholesalers. Added in more scenery to Sabina Trader City and removed some excess junk at wholesalers to help improve server load(Affected Files: Traders\wholesalers.sqf, Traders\sabina.sqf).
 
 <b>14/11/13</b>
